@@ -1,6 +1,4 @@
-"""Command-line runner for `physics.py` formulas.
-
-Usage examples:
+"""Usage examples:
   python run_physics.py displacement --u 5 --t 2
   python run_physics.py impulse --m 2 --u 3 --v 8
   python run_physics.py gravity --M 5.97e24 --m 1000 --r 6.371e6
